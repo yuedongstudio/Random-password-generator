@@ -8,3 +8,7 @@ You can use this software to generate passwords in batches, with a variety of di
 This software can guarantee absolute security without any malicious code<br/>
 **软件完全开源，请放心使用**<br/>
 The software is completely open source, please feel free to use it<br/>
+
+---
+**开发人员：[@超级苦力怕1324](https://space.bilibili.com/1570647074)**
+**Developers：[@creeper1324](https://space.bilibili.com/1570647074)**
