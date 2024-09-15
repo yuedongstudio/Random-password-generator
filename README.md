@@ -1,7 +1,7 @@
 # 随机密码生成器
 ## Random-password-generator
 **随机密码生成器，这个工具可以帮你快速生成随机强密码**<br/>
-Random Password Generator.this tool can help you quickly generate strong random passwords.<br/>
+Random password generator,this tool can help you quickly generate strong random passwords.<br/>
 **你可以使用该软件批量生成密码，位数可供选择**<br/>
 You can use this software to generate passwords in batches, with a variety of digits to choose from.<br/>
 **该软件可以保证绝对安全，没有任何恶意代码**<br/>
